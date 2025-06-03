@@ -1,1 +1,0 @@
-export const sharedConstant = "Shared logic works!";
